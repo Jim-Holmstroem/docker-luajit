@@ -3,5 +3,5 @@
 # Supported tags and respective ```Dockerfile``` links
 * ```2.0.4```, ```2.0```, ```2```, ```latest``` [(2.0.4/Dockerfile)](https://github.com/Jim-Holmstroem/docker-luajit/blob/2.0.4/centos/Dockerfile)
 
-# Docker hub
+# Docker hub link
 * [jimho/luajit](https://hub.docker.com/r/jimho/luajit/)
